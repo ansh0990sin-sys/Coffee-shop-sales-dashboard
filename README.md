@@ -19,8 +19,8 @@ An interactive Power BI dashboard created to analyze COFFEE SHOP sales data.
 - Regional Analysis
 
 ## Dashboard Preview
+<img width="1315" height="737" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/de2cf259-1d77-4abd-af76-36813d2a1cc5" />
 
-![Dashboard](Screenshots/dashboard.png)
 
 ## Key Insights
 - Analyzed sales performance across different regions.
